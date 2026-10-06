@@ -37,6 +37,10 @@ Estas credenciales deben coincidir con las que tenga configuradas el ESP32 para 
 
 ### 4. Iniciar la API
 
+Antes de levantar el servicio, asegúrate de permitir el acceso al puerto `8000` en el firewall de Windows. Debes crear una regla de entrada y otra de salida que permitan tráfico tanto `TCP` como `UDP` para ese puerto.
+
+También es necesario cambiar el tipo de perfil de red de la conexión que usarás con la API a **Red Privada**, desde la configuración de red de Windows, para evitar bloqueos de descubrimiento y conectividad en la red local.
+
 Una vez cargados los datos y configurado el hotspot, inicia la API desde la carpeta [Python/API](Python/API) con este comando:
 
 ```bash
