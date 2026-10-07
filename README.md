@@ -1,6 +1,14 @@
 # PT
 Códigos desarrollados para el Proyecto Terminal "Laboratorio virtual para el uso de un analizador vectorial de redes".
 
+## Descarga de APK para Metaquest
+
+Dentro de la siguiente liga se encuentra el APK para las Metaquest 3S
+
+[Descarga de APK](https://drive.google.com/file/d/1DMBeIVCOr3HpQgJZRVssmDR-YFnOCSIo/view?usp=sharing)
+
+descargar e instalar directamente en el visor.
+
 ## Configuración en una PC nueva
 
 Sigue estos pasos para dejar el proyecto listo para ejecutarse en una computadora nueva.
