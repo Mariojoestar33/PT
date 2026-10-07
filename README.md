@@ -1,5 +1,5 @@
 # Proyecto Terminal
-Códigos desarrollados para el Proyecto Terminal: "Laboratorio virtual para el uso de un analizador vectorial de redes" dentro de la Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas.
+Códigos desarrollados para el Proyecto Terminal: **"Laboratorio virtual para el uso de un analizador vectorial de redes"** dentro de la Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas.
 
 ## Descarga de APK para Metaquest
 
